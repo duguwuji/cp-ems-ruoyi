@@ -13,6 +13,8 @@
 体验账号： EMSUser/123456
 
 #### 主要功能
+完整功能请登录系统查看
+    
 0. 数据采集 - 支持MQTT通信
 1. 设备管理 - 设备、网关台账
 2. 运维管理 - 巡检计划、维修工单等
@@ -29,7 +31,7 @@
     * 订单管理
     * 电站、电桩管理
     * 价格策略配置
-9. 数据看板
+9. 数据看板  
 
 #### 界面截图
 <img src='docs/看板.png' width='600'><br>
@@ -64,4 +66,4 @@
 
 #### 关于我们
 苏州云脉软件技术有限公司  
-<www.szcloudpulse.com>
+<a href='www.szcloudpulse.com' target='_blank'>www.szcloudpulse.com</a>
