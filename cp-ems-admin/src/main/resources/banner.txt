@@ -1,0 +1,2 @@
+Application Version: ${cp-ems.version}
+Spring Boot Version: ${spring-boot.version}
