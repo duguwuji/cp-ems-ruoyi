@@ -37,23 +37,31 @@
 <img src='docs/能耗分析.png' width='600'><br>
 <img src='docs/定额分析.png' width='600'><br> 
 
-浅色主体  
+支持深浅两种主题，浅色效果    
 <img src='docs/浅色主体.png' width='600'>  
 
 #### 配套小程序体验
 * 支持查看平台能耗数据
 * 支持查看报警记录
-* 支持处理巡检、维修工单
+* 支持处理巡检、维修工单  
 
-<img src='docs/小程序二维码.jpg' width='150'> <br> 
+扫码体验   
+<img src='docs/小程序二维码.jpg' width='150'><br>
+
+小程序界面  
 <img src='docs/小程序截图一.png' width='150'> 
 <img src='docs/小程序截图二.png' width='150'> 
+<img src='docs/小程序截图三.png' width='150'> 
+<img src='docs/小程序截图四.png' width='150'> 
 
-#### 技术交流&获取使用说明
-请关注公众号或添加微信  
-<img src='docs/公众号二维码.jpg' width='200'> 
-<img src='docs/联系人二维码.jpg' width='200'>    
+#### 技术交流&获取使用说明  
+公众号上有更多案例  
+“云脉软件”公众号  
+<img src='docs/公众号二维码.jpg' width='200'><br> 
+
+咨询交流请加微信  
+<img src='docs/联系人二维码.jpg' width='200'><br>
 
 #### 关于我们
 苏州云脉软件技术有限公司  
-www.szcloudpulse.com
+<www.szcloudpulse.com>
