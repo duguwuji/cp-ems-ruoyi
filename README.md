@@ -5,7 +5,7 @@
 系统提供了能耗分析、定额管理、运维管理等功能，满足用户对能耗数据的监控和管理，个人和企业均可免费自用。  
 
 #### 软件架构
-前端框架：vue2 + element-ui + ECharts
+前端框架：vue2 + element-ui + ECharts        
 后端框架：SpringBoot + Mysql + TDengine + Redis + RabbitMq + MQTT 
 
 #### 在线体验
