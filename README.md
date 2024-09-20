@@ -34,7 +34,7 @@
 9. 数据看板  
 
 #### 本地运行
-https://to6tvs3h8n.feishu.cn/wiki/YOAEwq7BriyF6tkp6iXc6O6cnbg?from=from_copylink
+https://www.szcloudpulse.com/run-document.html
 
 #### 界面截图
 <img src='docs/看板.png' width='600'><br>
