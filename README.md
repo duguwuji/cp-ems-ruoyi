@@ -70,3 +70,9 @@ https://www.szcloudpulse.com/run-document.html
 #### 关于我们
 苏州云脉软件技术有限公司  
 <a href='https://www.szcloudpulse.com' target='_blank'>www.szcloudpulse.com</a>
+
+#### 其他开源项目  
+云脉生产管理系统
+本项目是基于ruoyi开发的生产工单管理系统（mes），权限部分沿用了框架自带的体系，其余功能为定制开发，UI样式做了改造。 
+<a href='https://gitee.com/cloudpulse/cp-mes-ruoyi' target='_blank'>https://gitee.com/cloudpulse/cp-mes-ruoyi</a>
+ 
