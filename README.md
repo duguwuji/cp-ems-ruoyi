@@ -10,8 +10,8 @@
 
 #### 在线体验
 演示地址： https://www.szcloudpulse.com:86   
-体验账号： 关注公众号，发送消息"ems"获取  
-<img src='docs/公众号二维码.jpg' width='200'><br> 
+体验账号： EMSUser\123456
+沟通请加底部微信
 
 #### 主要功能
 完整功能请登录系统查看
